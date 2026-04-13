@@ -1,4 +1,4 @@
-# 🚀 CodTech Data Science Internship Projects
+# 🚀 CodTech Data Science Internship Project
 
 This repository contains all the tasks completed as part of the **CodTech Data Science Internship**.
 The projects demonstrate practical implementation of **data pipelines, deep learning, full-stack deployment, and optimization techniques** using Python.
@@ -108,7 +108,7 @@ Solve a business problem using linear programming.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/codtech-data-science-internship.git
+git clone https://github.com/NeuralAditya/codtech-data-science-internship.git
 cd codtech-data-science-internship
 ```
 
@@ -174,7 +174,7 @@ The Flask API (Task 3) can be deployed using:
 ## 📁 Project Structure
 
 ```
-codtech-data-science-internship/
+Codtech-Data-Science-Internship/
 │
 ├── task1-data-pipeline/
 ├── task2-deep-learning/
